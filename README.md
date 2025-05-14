@@ -1,0 +1,1 @@
+This repository contains a collection of example solutions to algorithmic problems and puzzles. It serves as a personal archive of practice problems, mainly focused on improving skills in algorithm design, data structures, and problem-solving techniques. The solutions cover a variety of topics, such as dynamic programming, recursion, graph algorithms, greedy methods, and more.
